@@ -1,5 +1,4 @@
 import React, {Component}  from 'react';
-import Directory from '../Directory/index';
 import TreeViewMenu from 'react-simple-tree-menu'
 import './index.css';
 
